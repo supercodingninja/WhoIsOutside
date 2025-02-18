@@ -1,4 +1,4 @@
-[Deployed Application](https://supercodingninja.github.io/WhoIsOutsdie/)
+[Deployed Application](https://supercodingninja.github.io/WhoIsOutside/)
 # dreamteam
 Who's Outside?! game by Frederick, Rachael, Isaiah, Aaron B, Maddy
 
